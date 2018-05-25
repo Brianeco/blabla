@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to SIStore!
 
-You can use the [editor on GitHub](https://github.com/Brianeco/blabla/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Store developed for anyone who is still user of a phone with the latest versions of Symbian.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+With Sistore! The days of intensive searching all over the web are things of the past! Find everything in one app!
 
-### Markdown
+### Download!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To download click here [Version: 2.1.0](http://tienda-sistore.com/Download.php)
 
 ```markdown
 Syntax highlighted code block
