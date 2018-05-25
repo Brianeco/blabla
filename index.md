@@ -6,7 +6,7 @@ With Sistore! The days of intensive searching all over the web are things of the
 
 ### Download!
 
-To download click here [Version: 2.1.0](http://tienda-sistore.com/Download.php)
+To download click here [Version: 2.1.0]()
 
 ```markdown
 Syntax highlighted code block
